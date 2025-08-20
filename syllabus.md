@@ -6,10 +6,10 @@
 ## Fall 2025
 
 
-### Mon/Wed 5.30-7.00pm (Room: ASC 108)
+### Mon/Wed 5.30-7.00pm (Room: ASC ??)
 
 
-### Professor: Matt O'Donnell (he/him/his)
+### Professor: Matt O'Donnell
 
 -   Email: mbod@asc.upenn.edu
 -   Office Hours: via Zoom (see link in Canvas)
@@ -17,6 +17,13 @@
         -   But this may vary and I will always try and be available for
             appointments outside these times if you email with sufficient
             notice.
+
+
+### TA: Cameron Moy
+
+-   Email: cameron.moy@asc.upenn.edu
+-   Office Hours:
+    -   Thursday 11-1pm in ASC 212 and on Zoom (see link in Canvas)
 
 ---
 
@@ -96,11 +103,9 @@ Through this course students will:
 there may be a slightly different balance of assignments allowing you
 to develop a topic of interest in more detail.
 
--   Prompt/response (and discussion readings response [COMM5190]) blogging (30%)
+-   Prompt/response and reading blogging (35%)
 
--   Coding and task assignments (15%)
-
--   Research paper (20%)
+-   Coding and task assignments (30%)
 
 -   Final Project (35%)
 
@@ -147,26 +152,9 @@ to develop a topic of interest in more detail.
             -   <https://github.com/kendallen/comm_4190_S24_expert_presentations>
             -   <https://github.com/Lbrienza4498/Expert_Presentations>
 
-3.  Research Project (20%)
-    -   The focus of this project is to either:
-        
-        1.  Select a theoretical communication framework
-            (e.g. Accommodation Theory) developed to explain human
-            communication behavior and explore its implications for
-            communicating with (in both senses) an LLM.
-        2.  Examine a specific communicative context or example
-            (e.g. political debate, interaction between customer and
-            service representative, a messaging campaign in health
-            communication, etc.) and explore whether and how LLMs might be
-            used and the associated implications.
-        
-        -   Example projects from previous class:
-            -   <https://github.com/Lbrienza4498/comm4190_S24_Research_Project>
-            -   <https://github.com/ekeogh03/comm4190_S24_Research_Project>
-            -   <https://github.com/emoow/comm4190_S24_Research_Project>
-
-4.  Final Project (35%)
-    -   You can select to work in a team (of two or three) or work on your own
+3.  Final Project (35%)
+    -   This is a group project. You can build your own team (of two or
+        three) or be assigned to a group based on interest.
     -   The goal of this project is for you to create an LLM-based
         application, focused on a particular task or communicative
         context.
