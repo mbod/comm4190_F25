@@ -6,7 +6,7 @@
 ## Fall 2025
 
 
-### Mon/Wed 5.30-7.00pm (Room: ASC ??)
+### Mon/Wed 5.30-7.00pm (Room: ASC 109)
 
 
 ### Professor: Matt O'Donnell
@@ -103,9 +103,11 @@ Through this course students will:
 there may be a slightly different balance of assignments allowing you
 to develop a topic of interest in more detail.
 
--   Prompt/response and reading blogging (35%)
+-   Prompt/response and reading blogging (30%)
 
--   Coding and task assignments (30%)
+-   "Living with a book" reading assignment (10%)
+
+-   Coding and task assignments (25%)
 
 -   Final Project (35%)
 
@@ -133,7 +135,28 @@ to develop a topic of interest in more detail.
             -   <https://yummyhopper.github.io/comm4190_S24_Using_LLMs_Blog/>
             -   <https://emmaluo3.github.io/comm4190_S24_Using_LLMs_Blog/>
 
-2.  Coding and Task Assignments (15%)
+2.  "Living with a book" Assignment (10%)
+    -   The goal of this assignment is have you spend time reading **and
+        writing in** (e.g. underlining, making notes and drawing etc) in a
+        physical book that you will carry around with you and bring to every class.
+    -   So you **MUST BUY A PHYSICAL COPY OF YOUR SELECTED BOOK**.
+    -   You will be assigned to read one of the following books across this semester.
+        -   The goal is to have an equal number of students reading each of the books.
+        -   You will have a opportunity to rank your preferences and we will try to make sure you are assigned to one of your top preferences.
+        -   You shouldn't have read the book before.
+    
+    -   **Book selection**
+        -   Buolamwini, Joy (2024). *Unmasking AI: My Mission to Protect What Is Human in a World of Machines*. Random House.
+        -   Mollick, Ethan (2024). *Co-Intelligence Living and Working with AI*. Penguin.
+        -   Summerfield, Christopher (2025). *These Strange New Minds. How AI Learned to Talk and What It Means*. Penguin.
+        -   Bender, Emily & Hanna, Alex (2025). *The AI Con. How to Fight Big Tech's Hype and Create the Future We Want*. HarperCollins.
+        -   Bennett, Max (2023). *A Brief History of Intelligence Evolution, AI, and the Five Breakthroughs That Made Our Brains*. HarperCollins.
+        -   Hoffman, Reid & Beato, Greg (2025). *Superagency. What Could Possibly Go Right with Our AI Future*. Authors Equity.
+        -   Ananthaswamy, Anil (2024). *Why Machines Learn. The Elegant Math Behind Modern AI*. Penguin.
+    
+    -   More details on how this assignment will work will be discussed in class.
+
+3.  Coding and Task Assignments (25%)
     -   There will be a small number of coding assignments to help
         practice the use of LLMs through APIs, do batch processing of
         prompts, evaluate responses and models, creating a RAG LLM system
@@ -152,7 +175,7 @@ to develop a topic of interest in more detail.
             -   <https://github.com/kendallen/comm_4190_S24_expert_presentations>
             -   <https://github.com/Lbrienza4498/Expert_Presentations>
 
-3.  Final Project (35%)
+4.  Final Project (35%)
     -   This is a group project. You can build your own team (of two or
         three) or be assigned to a group based on interest.
     -   The goal of this project is for you to create an LLM-based
@@ -174,13 +197,14 @@ Alammar, J. & Grootendorst, M. (2024) *Hands-On Large Language Models*.
 -   This book is references as `HOLLM` in the schedule below.
 -   It is available online through the library and the UPenn O'Reilly subscription
 
+Christiansen, M.H. and Chater, N. (2022) *The Language Game: How
+Improvisation Created Language and Changed the World*. Basic Books.
+
+-   This book is references as `LGAME` in the schedule below.
+
 Mitchell, M. (2019) *Artificial Intelligence: A Guide for Thinking Humans*.
 
 -   This book is referenced as `AITH` in the schedule below.
-
-Mollick, E. (2024) *Co-Intelligence: Living and Working with AI*.
-
--   This book is referenced as `COINT` in the schedule below.
 
 Phoenix, J. & Taylor, M.(2024) *Prompt Engineering for Generative AI*. O'Reilly Media, Inc.
 
@@ -199,9 +223,6 @@ Togelius, J. (2024) *Artificial General Intelligence*. MIT Press Essential Knowl
 
 
 ## Other readings
-
-Christiansen, M.H. and Chater, N. (2022) *The Language Game: How
-Improvisation Created Language and Changed the World*. Basic Books.
 
 Enfield, N. (2017). *How we talk: The inner workings of
 conversation*. Basic Books.
@@ -528,7 +549,7 @@ READINGS:
 -   `PEGAI` Ch. 4 (<https://learning.oreilly.com/library/view/prompt-engineepring-for/9781098153427/ch04.html>)
 
 
-### Monday 20 October
+### Monday 20 October (**\* ROOM CHANGE: IN ASC 108 \***)
 
 -   Choice dilemma task
 -   Group consensus
@@ -592,7 +613,7 @@ READINGS:
 -   Examples of tasks using agents
 
 
-### Wednesday 12 November
+### Wednesday 12 November (**\* ROOM CHANGE: IN ASC 108 \***)
 
 -   LangChain, LangGraph, crewAI
 
