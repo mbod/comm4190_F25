@@ -354,26 +354,32 @@ Work?*. Blog post February 14, 2023
 
 READINGS:
 
--   Wolfram 2023 Blog post *What is ChatGPT Doing*
--   `GAI` Ch. 2
+-   `LGAME` Ch. 1 pp. 7-19
 
 
 ### Monday 20 January ****NO CLASS Labor Day****
 
+**IMPORTANT** - PLEASE MAKE SURE TO COMPLETE BEFORE CLASS 
+
+-   Follow the 4 steps in notebooks in the
+    `03_SETUP_Blog_and_github_access` folder in JupyterHub to
+    1.  setup SSH key for github access from `commjhub.asc.upenn.edu`
+    2.  fork and clone the blog repo from github
+    3.  test the blogging steps
+
 
 ### Wednesday 03 September
 
--   Understanding what LLMs are doing - next word prediction
--   Some challenges for LLMs
-    -   spatial logic
-    -   theory of mind (ToM) scenarios
 -   Language as interaction and exchange
     -   Turn types in conversation
         -   Statements & Questions
         -   Offers & Demands
     -   Responses: Compliance vs Challenge
--   Looking at GPT2
-    -   Word embeddings
+
+-   **Exercises**
+    -   Record and analyze conversation
+    -   Using `openai` API from Python
+    -   Python Basics using `turtle` module
 
 
 ## Week 3 - Prompting and How LLMs work (Part 1)
@@ -390,6 +396,14 @@ READINGS:
 
 
 ### Monday 08 September
+
+-   Understanding what LLMs are doing - next word prediction
+-   Some challenges for LLMs
+    -   spatial logic
+    -   theory of mind (ToM) scenarios
+
+-   Looking at GPT2
+    -   Word embeddings
 
 -   How LLMs work (Part 1)
     -   High level view  of neural networks and deep learning
