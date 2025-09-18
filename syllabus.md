@@ -23,7 +23,7 @@
 
 -   Email: cameron.moy@asc.upenn.edu
 -   Office Hours:
-    -   Thursday 11-1pm in ASC 212 and on Zoom (see link in Canvas)
+    -   Thursday 1-3pm in ASC 136 and on Zoom (see link in Canvas)
 
 ---
 
