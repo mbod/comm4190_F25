@@ -479,16 +479,15 @@ READINGS:
 
 ### Monday 22 September
 
--   Overview of LLM model landscape
--   Using <span class="underline">Hugging Face</span>
-    -   Register for an account on <https://huggingface.co/>
+-   Prompting strageties (`PEGAI Ch. 3`)
+-   Evaluation and A-B testing stratgies
 
 
 ### Wednesday 24 September
 
--   How does human-human conversation work?
--   Is a ChatBot really engaging in conversation?
--   Finetuning with Question-Answer data
+\*\*Guest Lecturer - Dr Kanu Pandey (UCSB) - <https://www.comm.ucsb.edu/people/prateekshit-kanu-pandey>
+
+-   Improvisation and Creativity
 
 
 ## Week 6 - How LLMs are trained - Finetuning (Part 2)
@@ -508,15 +507,28 @@ READINGS:
         3.  Instruction
 -   From next word prediction tool to chatbot
 
-
-### Wednesday 01 October
-
 -   Comparing a base model with a fine tuned model
     -   Examples:
         -   Gemma
         -   Llama
 
+-   How does human-human conversation work?
+-   Is a ChatBot really engaging in conversation?
+-   Finetuning with Question-Answer data
+
+
+### Wednesday 01 October
+
+-   RESOURCE: Using <span class="underline">Hugging Face</span>
+    -   Register for an account on <https://huggingface.co/>
+
 -   TOOL: Using Ollama to run local models
+
+
+### Friday 03 October - ****Group Product Task Assignment Due****
+
+-   Complete github repo for your group product task
+-   Submit url through Canvas assignment
 
 
 ## Week 7 - LLMs and image models
@@ -602,8 +614,7 @@ READINGS:
 
 ### Monday 03 November
 
--   Retrieval Augmented Generation (RAG)
--   RAG using \`langchain\`
+-   Final Project Milestone #1 - Idea pitching
 
 
 ### Wednesday 05 November
@@ -658,10 +669,6 @@ READINGS:
 -   Bias in pretraining
 -   Bias in finetuning
 -   Alignment/censoring
-
-
-### Wednesday 26 November
-
 -   Using uncensored models
 -   Making LLMs 'forget'
 
@@ -683,5 +690,10 @@ READINGS:
 -   Group project presentations
 
 
-### ASSIGNMENTS DUE - TBA
+### Monday 08 December
+
+-   Group projects
+
+
+### ASSIGNMENTS DUE - Thursday December 18
 
