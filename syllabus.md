@@ -673,6 +673,9 @@ READINGS:
 -   Making LLMs 'forget'
 
 
+### NO CLASS Wednesday 26 November
+
+
 ### ****THANKSGIVING BREAK (November 27-30)****
 
 
